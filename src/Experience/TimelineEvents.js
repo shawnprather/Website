@@ -9,7 +9,7 @@ const experience = [
   {
     heading: "Lockheed Martin",
     subheading: "Software Engineer Intern",
-    date: "May 2025 - Present",
+    date: "May 2025 - Dec 2025",
     description: "Working on increasing security and doing verification checks on important software systems. 🔐",
     direction: "right",
   },
@@ -32,7 +32,7 @@ const experience = [
   {
     heading: "Colorado School of Mines, Computer Science",
     subheading: "Bachelor's Degree, Computer Science",
-    date: "Aug 2024 - Present",
+    date: "Aug 2024 - May 2026",
     description: "Pursuing a Bachelor's degree in Computer Science at CSM with a concentration in Artificial Intelligence and Robotics! 🖥",
     direction: "left",
   },

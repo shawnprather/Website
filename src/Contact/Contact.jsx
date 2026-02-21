@@ -6,7 +6,7 @@ const Contact = () => {
     <div id="contact" className="w-full pb-8 bg-steel_blue-500">
       <h1 className="text-antiwhite-500 font-custom font-extrabold text-5xl pt-8 pb-10 text-center">Contact</h1>
       <div className="flex justify-center">
-        <ContactIcon icon={<FaGithub />} link={"https://github.com/Swiffels"} />
+        <ContactIcon icon={<FaGithub />} link={"https://github.com/shawnprather"} />
         <ContactIcon icon={<CiMail />} link={"mailto:contact@shawnprather.dev"} />
         <ContactIcon icon={<FaLinkedin />} link={"https://linkedin.com/in/shawn-prather/"} />
       </div>
